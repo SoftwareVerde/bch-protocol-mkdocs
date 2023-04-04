@@ -1,0 +1,3 @@
+[submodule "docs"]
+	path = docs
+	url = https://github.com/SoftwareVerde/bitcoin-cash-specification.git
